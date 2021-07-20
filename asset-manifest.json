@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/git-marketing/static/css/main.12f544ab.chunk.css",
-    "main.js": "/git-marketing/static/js/main.0d6e5f39.chunk.js",
-    "main.js.map": "/git-marketing/static/js/main.0d6e5f39.chunk.js.map",
+    "main.js": "/git-marketing/static/js/main.6f37a80a.chunk.js",
+    "main.js.map": "/git-marketing/static/js/main.6f37a80a.chunk.js.map",
     "runtime-main.js": "/git-marketing/static/js/runtime-main.9f000a52.js",
     "runtime-main.js.map": "/git-marketing/static/js/runtime-main.9f000a52.js.map",
     "static/js/2.62dbc6da.chunk.js": "/git-marketing/static/js/2.62dbc6da.chunk.js",
@@ -11,12 +11,15 @@
     "static/js/3.979d4fe6.chunk.js.map": "/git-marketing/static/js/3.979d4fe6.chunk.js.map",
     "index.html": "/git-marketing/index.html",
     "static/css/main.12f544ab.chunk.css.map": "/git-marketing/static/css/main.12f544ab.chunk.css.map",
-    "static/js/2.62dbc6da.chunk.js.LICENSE.txt": "/git-marketing/static/js/2.62dbc6da.chunk.js.LICENSE.txt"
+    "static/js/2.62dbc6da.chunk.js.LICENSE.txt": "/git-marketing/static/js/2.62dbc6da.chunk.js.LICENSE.txt",
+    "static/media/image1.32f76250.jpg": "/git-marketing/static/media/image1.32f76250.jpg",
+    "static/media/image2.8d218f9a.jpg": "/git-marketing/static/media/image2.8d218f9a.jpg",
+    "static/media/picture2.4a133091.jpg": "/git-marketing/static/media/picture2.4a133091.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9f000a52.js",
     "static/js/2.62dbc6da.chunk.js",
     "static/css/main.12f544ab.chunk.css",
-    "static/js/main.0d6e5f39.chunk.js"
+    "static/js/main.6f37a80a.chunk.js"
   ]
 }
