@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/git-marketing/static/css/main.a617e044.chunk.css",
+    "main.js": "/git-marketing/static/js/main.5f3a9c43.chunk.js",
+    "main.js.map": "/git-marketing/static/js/main.5f3a9c43.chunk.js.map",
+    "runtime-main.js": "/git-marketing/static/js/runtime-main.9f000a52.js",
+    "runtime-main.js.map": "/git-marketing/static/js/runtime-main.9f000a52.js.map",
+    "static/js/2.62dbc6da.chunk.js": "/git-marketing/static/js/2.62dbc6da.chunk.js",
+    "static/js/2.62dbc6da.chunk.js.map": "/git-marketing/static/js/2.62dbc6da.chunk.js.map",
+    "static/js/3.979d4fe6.chunk.js": "/git-marketing/static/js/3.979d4fe6.chunk.js",
+    "static/js/3.979d4fe6.chunk.js.map": "/git-marketing/static/js/3.979d4fe6.chunk.js.map",
+    "index.html": "/git-marketing/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/git-marketing/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.62dbc6da.chunk.js.LICENSE.txt": "/git-marketing/static/js/2.62dbc6da.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/git-marketing/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f000a52.js",
+    "static/js/2.62dbc6da.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.5f3a9c43.chunk.js"
+  ]
+}
